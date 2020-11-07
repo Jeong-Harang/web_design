@@ -1,0 +1,54 @@
+body{
+    font-family: a엄마의편지L;
+    src:url('a엄마의편지L.ttf');
+    font-weight: bolder;
+}
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color: #aecf92;
+}
+
+
+.title{
+    font-size: 40px;
+    font-family: a엄마의편지L;
+    src:url('a엄마의편지L.ttf');
+    font-weight: bolder;
+    color: cornsilk;
+    
+}
+
+.intro{
+    font-size: 20px;
+    font-family: a엄마의편지L;
+    src:url('a엄마의편지L.ttf');
+    font-weight: bolder;
+    color: cornsilk
+}
+
+.list{
+    font-size: 25px;
+    font-family: a엄마의편지L;
+    src:url('a엄마의편지L.ttf');
+    font-weight: bolder;
+    color: cornsilk;
+}
+
+.title2{
+    font-size: 40px;
+    font-family: a엄마의편지L;
+    src:url('a엄마의편지L.ttf');
+    font-weight: bolder;
+    color: #707769;
+}
+    
+.list2{
+    font-size: 25px;
+    font-family: a엄마의편지L;
+    src:url('a엄마의편지L.ttf');
+    font-weight: bolder;
+    color: #707769;
+}
